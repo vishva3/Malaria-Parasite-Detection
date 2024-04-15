@@ -2,7 +2,7 @@
 
 *Introduction*
 
-This repository contains code for a malaria parasite detection system using Convolutional Neural Networks (CNNs). The system is designed to classify whether a given blood cell image is infected with malaria parasites (Plasmodium) or uninfected.# Malaria-Parasite-Detection. 
+This repository contains code for a malaria parasite detection system using Convolutional Neural Networks (CNNs). The system is designed to classify whether a given blood cell image is infected with malaria parasites (Plasmodium) or uninfected.
 
 *Dataset*
 The dataset used for training and testing the model consists of two classes:
@@ -18,6 +18,10 @@ The dataset is organized into separate folders for each class.
 2. Ensure you have the required libraries installed (numpy, pandas, opencv-python, keras, etc.).
 3. Run the provided Jupyter Notebook or Python script to train and test the model.
 4. Use the trained model (a95e30model.h5) for malaria parasite detection in new images.
+
+
+
+
 
 
 **Blood_Smear_Bounding_Box**
